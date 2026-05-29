@@ -31,6 +31,7 @@ Chat with any PDF using AI. Upload a document and ask questions — get accurate
 6. **Respond** — Answer is returned with source citations
 
 ## 📁 Project Structure
+```
 pdf-chat/
 ├── backend/
 │   ├── main.py          # FastAPI endpoints (/upload, /chat, /health)
@@ -43,6 +44,7 @@ pdf-chat/
 │       └── App.jsx      # React chat UI with upload + citations
 ├── .gitignore
 └── README.md
+```
 
 ## ⚙️ Run Locally
 
