@@ -2,6 +2,10 @@
 
 Chat with any PDF using AI. Upload a document and ask questions — get accurate answers with source citations powered by LLaMA 3.3 via Groq.
 
+## 🎥 Demo
+
+https://github.com/Aniket-Jaiswal2002/pdf-chat/blob/main/demo.mp4
+
 ## ✨ Features
 
 - 📤 Upload any PDF document
