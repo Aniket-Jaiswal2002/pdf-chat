@@ -2,7 +2,7 @@
 
 Chat with any PDF using AI. Upload a document and ask questions — get accurate answers with source citations powered by LLaMA 3.3 via Groq.
 
-🌐 **Live Demo:** https://your-vercel-url.vercel.app
+🌐 **Live Demo:** https://pdf-chat-tawny.vercel.app/
 
 ![PDF Chat Demo](demo.gif)
 
