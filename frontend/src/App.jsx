@@ -148,4 +148,4 @@ const styles = {
   inputRow: { display: "flex", gap: "10px" },
   input: { flex: 1, padding: "12px 16px", borderRadius: "8px", border: "1px solid #333", background: "#1a1a1a", color: "#fff", fontSize: "15px" },
   sendBtn: { background: "#6c63ff", color: "#fff", border: "none", padding: "12px 24px", borderRadius: "8px", cursor: "pointer", fontWeight: "bold" },
-}
+} 
