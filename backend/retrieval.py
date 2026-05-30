@@ -5,7 +5,7 @@ import numpy as np
 # Use the same model as ingestion - must match!
 model = SentenceTransformer("all-MiniLM-L6-v2")
 
-def retrieve_relevant_chunks(query: str, index, chunks: list[str], top_k: int = 3) -> list[dict]:
+def retrieve_relevant_chunks(query: str, index, chunks: list[str], top_k: int = 6) -> list[dict]:
     """
     Given a user question, find the most relevant chunks from the PDF.
     
