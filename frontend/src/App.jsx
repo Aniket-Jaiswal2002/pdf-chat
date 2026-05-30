@@ -1,7 +1,7 @@
 import { useState } from "react"
 import axios from "axios"
 
-const API = "http://127.0.0.1:8000"
+const API = "https://aniket-jaiswal2002-pdf-chat.hf.space"
 
 export default function App() {
   const [file, setFile] = useState(null)
